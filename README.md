@@ -8,7 +8,6 @@ Directory Format:
    └📁Raw_Source
    
       └eng_fre.txt
-      
       └ger.txt
       
    └📁Source
@@ -18,19 +17,13 @@ Directory Format:
    └📁Notebook_Results
    
       └ENG-GER-FRE-N2-cleansed.csv
-      
       └ENG-GER-FRE-N3-bin-informative.csv
-      
       └TEST-ENG-GER-FRE-N3-bin-informative.csv
-      
       └TRAIN-ENG-GER-FRE-N3-bin-informative.csv
       
    └Notebook_1_Read_and_Combine.ipynb
-   
    └Notebook_2_Cleanse.ipynb
-   
    └Notebook_3_Feature_Engineering_and_Selection.ipynb
-   
    └Notebook_4_Naive_Bayes.ipynb
    
   
