@@ -3,7 +3,7 @@ Machine learning based language identification with English, German and French.
 
 Directory Format:
 
-📂LangID
+└📂LangID
 
    └📁Raw_Source
    
