@@ -20,7 +20,7 @@ Directory Format:
   - Notebook_4_Naive_Bayes.ipynb  
    
   
-Text and csv files can be found at: [link]
+Text and csv files can be found at: [link](www.notready.yet)
 
 About this project:
 
