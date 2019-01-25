@@ -4,10 +4,10 @@ Machine learning based language identification with English, German and French.
 Directory Format:
 
 └📂LangID
-   └📁Raw_Source
-      └eng_fre.txt
-      └ger.txt
-   └📁Source
+	└📁Raw_Source
+		└eng_fre.txt
+		└ger.txt
+	└📁Source
 		└ENG-GER-FRE.csv
 	└📁Notebook_Results
 		└ENG-GER-FRE-N2-cleansed.csv
