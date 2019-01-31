@@ -1,5 +1,5 @@
 # LangID
-Machine learning based language identification with English, German and French.
+Machine learning based language identification with English, German and French without use of machine learning libraries.
 
 Directory Format:
 
